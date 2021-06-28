@@ -16,11 +16,11 @@ The game will run automatically.
 
 
 ## Rules
-<ul> 
+<ol> 
   <li>Player moves to the closest zombie if his energy level >= 3, to the closest sandwich otherwise</li> 
   <li>Player can shoot a bullet to a zombie if his energy level >= 3 and the distance must be close enough</li>
   <li>Player can only move to treasure after all zombies are killed</li>
   <li>Eating one sandwich can help increase energy level by 5</li>
   <li>Shooting one bullet will recude energy level by 3</li>
   <li>The game will end if player's energy level < 3 and there are zombies but no sandwiches OR player reaches the treasre</li>
-</ul>
+</ol>
