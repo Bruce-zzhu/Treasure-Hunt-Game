@@ -5,7 +5,9 @@ The Player enters a tomb to search for a treasure box. The tomb is filled with z
 Player needs to fight before reaching the treasure. While the fighting is energy-consuming, the
 tomb is also filled with the nutritious foods to let the Player regain strength. <br>
 
-The game will run automatically. 
+The game will run automatically without interaction with keyborad or mouth. <br>
+
+The code can be run by using IntelliJ opening this folder (after cloning). To load different environments, simply copy the file named "environment.csv" from test folder into res/IO folder. The res/IO/output.csv file will record the postions of the bullet in each game; whether the player has reached the treasure successfully and the enegy level left will be printed out when the game ends.
 
 
 ## Characters
