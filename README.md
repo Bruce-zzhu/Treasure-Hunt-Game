@@ -24,5 +24,5 @@ The code can be run by using IntelliJ opening this folder (after cloning). To lo
   <li>Player can only move to treasure after all zombies are killed</li>
   <li>Eating one sandwich can help increase energy level by 5</li>
   <li>Shooting one bullet will recude energy level by 3</li>
-  <li>The game will end if player's energy level < 3 and there are zombies but no sandwiches OR player reaches the treasre</li>
+  <li>The game will end if player's energy level < 3 and there are zombies but no sandwiches OR player reaches the treasure</li>
 </ol>
