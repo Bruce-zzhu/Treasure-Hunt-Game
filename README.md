@@ -7,7 +7,7 @@ tomb is also filled with the nutritious foods to let the Player regain strength.
 
 The game will run automatically without interacting with keyborad or mouth. <br>
 
-The code can be run by using IntelliJ opening this folder (after cloning). To load different environments, simply copy the file named "environment.csv" from test folder into res/IO folder. The res/IO/output.csv file will record the postions of the bullet in each game; whether the player has reached the treasure successfully and the enegy level left will be printed out when the game ends.
+The code can be run by using IntelliJ opening this folder (after cloning). To load different environments, simply copy the file named "environment.csv" from test folder into res/IO folder. The res/IO/output.csv file will record the positions of the bullet (shot by the player) in each game; whether the player has reached the treasure successfully and the enegy level left will be printed out when the game ends.
 
 
 ## Characters
